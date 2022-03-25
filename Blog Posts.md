@@ -61,7 +61,7 @@ Sheeesh that was long.To summarize what we would be doing in this blog is that:
 4)We are going to create a node with hardhat, which is going to put everything come together.
 
 
-** “So letssssss get it STARTED in here” **
+**“So letssssss get it STARTED in here”**
 
 <h1>POST 2</h1>
 
@@ -137,8 +137,10 @@ module.exports = {
   }
 };
 ```
-Start a node using:
+**Start a node using:**
+
 ```npx hardhat node ```
+
 ![image](https://user-images.githubusercontent.com/80161973/159761649-1726ce95-9702-4b3a-a4b8-b01b3123431a.png)
 
 ![image](https://user-images.githubusercontent.com/80161973/159761671-aa3e5516-a7b6-4fba-927f-55cd284c0f3e.png)
@@ -185,7 +187,7 @@ return greeting;
  }
 }
    ```
- Our contract is in solidity. This cannot be accessed directly from our Javascript frameworks. For that, we need to "compile" it to Javscript (ABI). Think of this as a wrapper that connects to the contract and can help you call functions of the contract without having to worry about the details (marshalling etc.) yourself.
+ Our contract is in **solidity**. This cannot be accessed directly from our Javascript frameworks. For that, we need to "compile" it to Javscript (ABI). Think of this as a wrapper that connects to the contract and can help you call functions of the contract without having to worry about the details (marshalling etc.) yourself.
 The actual command is pretty simple:
 
 ```npx hardhat compile```
