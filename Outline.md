@@ -11,7 +11,8 @@
 	<li>2.3-Access contract from node.js</li>
 </ul>
 
-<ul><h2>3-Creating a Coin (Token)</h2>
+<ul>
+    <h2>3-Creating a Coin (Token)</h2>
     <li>3.1- Token smart contract, exchange coins </li>
     <li>3.2-Exchange coins through node.js</li></ul>
     
