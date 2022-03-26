@@ -12,7 +12,7 @@ Feel free to reach out if anyone faces any difficulty or gets stuck in any step.
 
 <h1> About Team </h1>
 
-'''Level One''' is a group of four high ambitious and motivated junior year computer science students.     
+'''Level One''' is a team of four highly ambitious and motivated junior year computer science students.     
 1. Abdullah Tahir
 2. Najam Aqeel
 3. Ammaar Ahmed Khan
