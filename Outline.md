@@ -1,4 +1,5 @@
- <ul><h2>1-Architecture Intro:</h2>
+ <ul>
+	<h2>1-Architecture Intro:</h2>
 	<li>1.1-Blockchain Overview</li>
 	<li>1.2-Environment and tool setup</li>
 	<li>1.3-Hardhat Setup</li></ul>
