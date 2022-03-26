@@ -19,4 +19,5 @@
     
 <ul>
     <h2>4-True distribution: Global testnet</h2>
-    <li>4.1-Deploying on the global testnet </li></ul>
+    <li>4.1-Deploying on the global testnet </li>
+</ul>
