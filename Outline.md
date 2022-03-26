@@ -2,7 +2,8 @@
 	<h2>1-Architecture Intro:</h2>
 	<li>1.1-Blockchain Overview</li>
 	<li>1.2-Environment and tool setup</li>
-	<li>1.3-Hardhat Setup</li></ul>
+	<li>1.3-Hardhat Setup</li>
+</ul>
 <ul>
    <h2>2-Hello World dApp</h2>
 	<li>2.1-Basic of dApp</li>
