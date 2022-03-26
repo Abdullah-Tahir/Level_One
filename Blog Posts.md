@@ -439,7 +439,10 @@ Again, if you are re-doing the tutorial, reset the account in MetaMask to get ri
 
 <h2>Let's Mint a New Token </h2>
 
+Before we start Minting the token, lets take a moment to understand what minting a **"Token"** actaully means.Minting is a decentralized way to create a new token without the involvement of a central authority, such as the government or a bank. It can either be a a crypto coin or a non-fungible token. 
 
+
+*Now lets get back to minting a new token*
 
 In this section, we are going to create a new Token called REC. This will be a sub currency and will showcase "reads" and "writes" to the Ethereum blockchain.
 
