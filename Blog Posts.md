@@ -565,10 +565,18 @@ Start the npm server again.
 ``` 
 npm start 
 ```
+Now go to your browser and loadup localhost and you will see this:
+
+![image](https://user-images.githubusercontent.com/62566404/160292214-0aa2545f-6cec-438b-8c85-34e5fd981f72.png)
+
+
 
 In the server, click on Get Balance to get the REC balance. Copy the Account ID of
 recly-test0x and send 20 REC to that account. MetaMask will ask you to connect your
 account if it's been a while. You can now go ahead and send the REC. Check the balance again on both accounts to ensure RECs have been transferred.
+
+![image](https://user-images.githubusercontent.com/62566404/160292254-99c4ec58-18c4-4387-96fc-69aafa303279.png)
+
 
 
 <h1>Post 7</h1>
@@ -589,8 +597,13 @@ The very first thing you need to do is get some ETH in your account. For this yo
 Request ETH on all the faucets. You'll need it for testing and it sometimes takes time to
 receive it. Make sure you give it an address that you created yourself. Hardhat accounts are publicly known and people will steal your (fake) ether from the testnet and you won't be able to test out your contracts.
 
+![image](https://user-images.githubusercontent.com/62566404/160292322-4cb5d09b-7d5f-4d49-a6d8-f81a6f261c31.png)
+
+
 <h3>Get Endpoints</h3>
-Next, let's create a project in Infura. This will give us an endpoint through which we can actually push our contract. Think of this as the equivalent of the node that we created locally. For the internet, you need some node to act on your behalf. We'll use infura but you can also use Alchemy.
+Next, let's create a project in Infura.First just sign up and create an accound ,once you are logged in like this
+
+.  This will give us an endpoint through which we can actually push our contract. Think of this as the equivalent of the node that we created locally. For the internet, you need some node to act on your behalf. We'll use infura but you can also use Alchemy.
 
 Go to infura.io and create a new Etherium project. You need the Project ID. Also select Ropsten from the Endpoints dropdown and get the endpoint URL. Save both of these somewhere.
  
