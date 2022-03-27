@@ -1,15 +1,15 @@
 <h1>Source of Research Process: </h1>
 
-<h2>1.	Web Site: </h2>
+<h2>1.	Website: </h2>
 
-Here you can get your NFT into Blockchain. In which you can connect your wallet and purchase all NTFS and smart contract using this website
+Here you can get your non-fungible token onto a Blockchain. In which you can connect your wallet and purchase all NTFS and smart contract using this website
 (NFTS are coming to Blockchain.com)
 
 https://www.blockchain.com
 
 <h2>2.	What is Blockchain?</h2>
 
-Blockchain is essentially a datastore, it is a very safe datastore. Its public, it’s just like a database There are only 2 things you can do with it You can either write to it or read from it How to write to it? You come up with a transaction of something that must be written to a blockchain, and you are going to send it to the distributed system or the blockchain. It goes over there, and all the info is collected and put together in what's called a “block”, inside a block they are put in a smaller “package”. And this package is sent to what is called a “verifier”.so these verifiers look at the content of the transactions in this one block, all of them. And they are going to ensure that they satisfy the rules defined by the blockchain.
+Blockchain is basically a datastore. Its public, it’s just like a database. There are only 2 things you can do with it, You can either write to it or read from it. How do you write to it? You come up with a transaction of something that must be written to a blockchain, and you are going to send it to the distributed system or the blockchain. It goes over there, and all the info is collected and put together in what's called a “block”, inside a block they are put in a smaller “package”. And this package is sent to what is called a “verifier”.so these verifiers look at the content of the transactions in this one block, all of them. And they are going to ensure that they satisfy the rules defined by the blockchain.
 
 https://www.euromoney.com
 
@@ -17,12 +17,6 @@ https://www.euromoney.com
 <h2>3.	Blockchain Expert Explain One Concept in 5 Levels of Difficulty:</h2>
 
 https://www.youtube.com/watch?v=hYip_Vuv8J0&ab_channel=WIRED
-
-
-<h2>4.	Blockchain Expert by Nouman Azam:</h2>
-
-https://www.youtube.com/watch?v=kxWHtBwlPkQ&ab_channel=recluze
-
 
 
 <h2>5.	Smart Contract | Ethereum | Blockchain:</h2>
